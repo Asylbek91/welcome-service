@@ -1,5 +1,4 @@
 Silo
-Foundation
 Severance
 Black Mirror
 Boys
@@ -7,3 +6,6 @@ The Boroughs
 From
 Succession
 Breaking Bad
+John Wick
+Mad Max
+The Dark Knight
